@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm KIM HAK RITHY</h1>
-<h3 align="center">A passionate frontend and backend ❤️</h3>
+<h3 align="center">Passionate frontend and backend ❤️</h3>
 
 <h3 align="center">Contact me:</h3>
 <p align="center">
