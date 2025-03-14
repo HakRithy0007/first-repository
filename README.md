@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm KIM HAK RITHY</h1>
 <h3 align="center">A passionate frontend and backend ❤️</h3>
 
-<h3 align="center">👨‍💻 All of my projects are available in [your@heart]</h3>
-<h3 align="center">💬 Ask me about : Vue,Tailwind,Go,PHP</h3>
-<h3 align="center">📫 How to contact me : hakrithy2020@gmail.com</h3>
-<h3 align="center">⚡ Fun fact I'm working hard, be kind, and amazing things will happened.💻</h3>
-
 <h3 align="center">Contact me:</h3>
 <p align="center">
 <a href="https://fb.com/thy ィ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thy ィ" height="30" width="40" /></a>
